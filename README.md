@@ -2,7 +2,9 @@
 
 A weather dashboard using on call API, allowing you to get information on the weather for today and a 5 day forecast!
 
-programs used for this project were HTML, CSS and Javascript!
+Enter any city in the search bar to pull the Weather, Wind Speed and Humidity for each location!
+
+Programs used for this project were HTML, CSS and Javascript!
 
 # Deployment
 The website is deployed at:  https://dakotak92.github.io/Challenge-6/
